@@ -1,0 +1,22 @@
+{
+  "en": {
+    "greet": "Hello! How are you?",
+    "bye": "Goodbye! See you soon."
+  },
+  "es": {
+    "greet": "¡Hola! ¿Cómo estás?",
+    "bye": "¡Adiós! Hasta pronto."
+  },
+  "fr": {
+    "greet": "Bonjour! Comment ça va?",
+    "bye": "Au revoir! À bientôt."
+  },
+  "ar": {
+    "greet": "مرحبًا! كيف حالك؟",
+    "bye": "مع السلامة! أراك قريبًا."
+  },
+  "zh": {
+    "greet": "你好！你好吗？",
+    "bye": "再见！回头见。"
+  }
+}
